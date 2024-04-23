@@ -1,3 +1,9 @@
 
 header
 {background-color: rgb(8, 177, 255);}
+.pricipal {
+    background-image: url("img/Background.png");
+}
+.container{
+    height:100vh;
+}
